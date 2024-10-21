@@ -1,2 +1,2 @@
 This repository contains my PME assignment work.
-This a pratice note.
+This will be pushed on github.
